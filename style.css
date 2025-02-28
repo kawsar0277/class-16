@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    background-image: url('img/IMG_20240106_143154.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    color: rgb(255, 0, 0);
+    overflow: hidden;
+}
+
+.section{
+    margin-top: 15px;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.project{
+    float: left;
+    height: 200px;
+    width: 32%;
+    margin-right: 10px;
+    margin-left: 2px;
+    margin-bottom: 10px;
+
+    border: 1px solid black
+    
+    
+    
+}
