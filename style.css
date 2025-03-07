@@ -4,7 +4,7 @@
 }
 
 .hero{
-    background-image: url('img/IMG_20240106_143154.jpg');
+    background-image: url('img/img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -29,7 +29,24 @@
     margin-bottom: 10px;
 
     border: 1px solid black
-    
-    
-    
+     
 }
+
+.footer{
+    height: 150px;
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+
+}
+
+.footer-item{
+    width: 33%;
+    float:left
+
+}
+ .link{
+    text-decoration: none;
+    color:beige;
+    display: block;
+ }
