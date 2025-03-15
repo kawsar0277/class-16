@@ -50,3 +50,62 @@
     color:beige;
     display: block;
  }
+
+ /* css for device responsive */
+
+
+
+ @media screen and (max-width: 1045px) { 
+
+    .hero{
+
+        height: 300px;
+    }
+    }
+
+    @media screen and (max-width: 530px) { 
+
+        .hero{
+    
+            height: 200px;
+        }
+        }
+
+
+
+ @media screen and (max-width: 1049px) {
+
+    .project{
+        width: 31.8%;
+    }
+ }
+
+ @media screen and (max-width: 913px) { 
+
+    .project{
+        width: 31.5%;
+    }
+ }
+
+ @media screen and (max-width: 763px) { 
+
+    .project{
+        width: 48%;
+    }
+ }
+
+ @media screen and (max-width: 699px) { 
+
+    .project{
+        width: 47%;
+    }
+ }
+
+ @media screen and (max-width: 466px) { 
+
+    .project{
+        width: 98%;
+    }
+ }
+
+
